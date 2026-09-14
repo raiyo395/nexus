@@ -24,4 +24,4 @@ A modern multi-chain DeFi dashboard built with React, TypeScript, Tailwind CSS, 
 
 ## Live Demo
 
-https://cozy-alpaca-c546a8.netlify.app
+https://nexus-chwr.vercel.app/
