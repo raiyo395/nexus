@@ -9,7 +9,7 @@ const FEATURES = [
     icon: BarChart3,
     title: 'Asset Tracking',
     description:
-      'Unified portfolio view across Ethereum, L2s, and major chains with live valuations and allocation insights.',
+      'Unified portfolio view across Ethereum, L2s, and major chains with valuations and allocation insights.',
     gradient: 'from-indigo-500/20 to-indigo-500/5',
     iconColor: 'text-indigo-400',
   },
@@ -23,7 +23,7 @@ const FEATURES = [
   },
   {
     icon: Activity,
-    title: 'Live On-Chain Activity',
+    title: 'On-Chain Activity',
     description:
       'Timeline of every send, swap, and approval — with Etherscan links, status tracking, and copy-to-clipboard.',
     gradient: 'from-violet-500/20 to-violet-500/5',
